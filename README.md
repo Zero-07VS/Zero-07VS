@@ -6,12 +6,6 @@
 
 </div>
 
----
-
-/*<div align="center">
-  <img src="https://i.pinimg.com/originals/85/91/32/859132237a11d082c7d83d68ff7c10e9.gif" width="300" alt="Coding GIF"/>
-</div> */
-
 ## 🚀 Sobre Mí
 
 Soy un desarrollador apasionado con experiencia en crear soluciones web innovadoras y eficientes. Me encanta aprender nuevas tecnologías y enfrentar desafíos que impulsen mi crecimiento profesional.
